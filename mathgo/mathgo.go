@@ -2,8 +2,8 @@
     MATHGO - MATHEMATICAL LIBRARY FOR THE GO PROGRAMMING LANGUAGE
 	IT IS THE SIMILAR TO MATHMOJO
 
-	Copyright (c) 2025 Cyril John Magayaga.
-	It is originally written in Go programming language
+	Copyright (c) 2025-2026 Cyril John Magayaga.
+	It is originally written in the Go programming language
 */
 package mathgo
 
